@@ -2,6 +2,10 @@
 
 A new Flutter project. This project is simple flutter app with simple use of widgets.
 
+### about app
+
+simple information id card with flotting button at button to generate random number.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
